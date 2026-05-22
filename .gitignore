@@ -1,0 +1,4 @@
+node_modules/
+scraper_studio_results_*.json
+.env
+.DS_Store

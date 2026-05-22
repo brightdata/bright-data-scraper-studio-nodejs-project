@@ -1,0 +1,16 @@
+{
+  "$schema": "https://codesandbox.io/schemas/tasks.json",
+  "setupTasks": ["npm install"],
+  "tasks": {
+    "install-dependencies": {
+      "name": "Install Dependencies",
+      "command": "npm install",
+      "runAtStart": true
+    },
+    "start-scraping": {
+      "name": "Run Scraper Studio",
+      "command": "node index.js",
+      "runAtStart": false
+    }
+  }
+}

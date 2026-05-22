@@ -1,0 +1,25 @@
+{
+  "name": "bright-data-scraper-studio-nodejs-project",
+  "version": "1.0.0",
+  "description": "Bright Data Scraper Studio Node.js boilerplate code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "bright-data",
+    "scraper-studio",
+    "web-scraping",
+    "dca",
+    "nodejs"
+  ],
+  "author": "Bright Data",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
