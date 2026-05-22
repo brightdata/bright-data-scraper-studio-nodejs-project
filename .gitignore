@@ -1,4 +1,5 @@
 node_modules/
 scraper_studio_results_*.json
 .env
+.env.local
 .DS_Store
